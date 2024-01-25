@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "full_name": "Mark",
+      "department": "IT",
+      "position": "programmer",
+      "gender": "male",
+      "birth_date": "20-11-1995"
+    },
+    {
+      "id": 2,
+      "full_name": "Jacob",
+      "department": "Accounting",
+      "position": "Accounting manager",
+      "gender": "male",
+      "birth_date": "20-11-1995"
+    },
+    {
+      "id": 3,
+      "full_name": "Larry",
+      "department": "Marketing",
+      "position": "Marketing consultant",
+      "gender": "male",
+      "birth_date": "20-11-1995"
+    },
+    {
+      "id": 4,
+      "full_name": "Alissa",
+      "department": "IT",
+      "position": "programmer",
+      "gender": "male",
+      "birth_date": "20-11-1995"
+    },
+    {
+      "id": 5,
+      "full_name": "Jacob",
+      "department": "Accounting",
+      "position": "Accounting manager",
+      "gender": "male",
+      "birth_date": "20-11-1995"
+    },
+    {
+      "id": 3,
+      "full_name": "Larry",
+      "department": "Marketing",
+      "position": "Marketing consultant",
+      "gender": "male",
+      "birth_date": "20-11-1995"
+    },
+    {
+      "id": "e756",
+      "full_name": "Alisher",
+      "department": "IT",
+      "position": "Kimdir",
+      "gender": "male",
+      "birth_date": "23-01-2024"
+    },
+    {
+      "id": "9c69",
+      "full_name": "Alisher",
+      "department": "IT",
+      "position": "Kimdir",
+      "gender": "male",
+      "birth_date": "23-01-2024"
+    },
+    {
+      "id": "1bf8",
+      "full_name": "Alisher",
+      "department": "IT",
+      "position": "Kimdir",
+      "gender": "male",
+      "birth_date": "23-01-2024"
+    },
+    {
+      "id": "ad5e",
+      "full_name": "sidkjf",
+      "department": "Marketing",
+      "position": "hrkfd,",
+      "gender": "male",
+      "birth_date": "23-01-2024"
+    }
+  ]
+}
